@@ -5,6 +5,7 @@
   "manifest_version": 3,
 
   "action": {
-    "default_popup": "index.html"
+    "default_popup": "index.html",
+    "default_icon": "icon2.png"
   }
 }
